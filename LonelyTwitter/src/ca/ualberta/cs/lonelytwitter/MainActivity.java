@@ -6,6 +6,8 @@ import java.util.List;
 import ca.ualberta.cs.lonelytwitter.data.ImportantLonelyTweet;
 import ca.ualberta.cs.lonelytwitter.data.LonelyTweet;
 import ca.ualberta.cs.lonelytwitter.data.NormalLonelyTweet;
+import ca.ualberta.cs.lonelytwitter.manager.TweetsFileManager;
+import ca.ualberta.cs.lonelytwitter.manager.TweetsManager;
 
 import android.app.Activity;
 import android.os.Bundle;
